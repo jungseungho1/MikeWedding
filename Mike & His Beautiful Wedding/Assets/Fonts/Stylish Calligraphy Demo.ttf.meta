@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 17ca5fc8144d24e5580330dcc70e43a8
+timeCreated: 1509631306
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Stylish Calligraphy Demo
+  fontNames:
+  - Stylish Calligraphy Demo
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

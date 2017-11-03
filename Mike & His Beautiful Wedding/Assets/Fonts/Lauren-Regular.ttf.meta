@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 5e4a3d578ec9646dfa555e1d86e0eabd
+timeCreated: 1509631306
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Lauren
+  fontNames:
+  - Lauren
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

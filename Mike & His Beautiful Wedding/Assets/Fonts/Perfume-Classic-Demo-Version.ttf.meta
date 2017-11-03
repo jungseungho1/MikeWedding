@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 85220d2bf35b748f1bc70869aba1bbeb
+timeCreated: 1509631306
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Perfume Classic Demo Version
+  fontNames:
+  - Perfume Classic Demo Version
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 686b2e8ddda9d4af6920669f87207c37, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
